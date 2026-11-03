@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/soundaryacs92/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdkZDNmYyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
   <a href="https://github.com/soundaryacs?tab=repositories"><img src="https://img.shields.io/badge/Projects-0A0F2C?style=for-the-badge&logo=github&logoColor=f472b6" alt="Projects"/></a>
   <a href="https://github.com/soundaryacshcl"><img src="https://img.shields.io/badge/GitHub-@soundaryacshcl-0A0F2C?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0A0F2C&color=1e1b4b" alt="Second GitHub account"/></a>
+  <a href="https://www.credly.com/users/soundarya-cs/badges"><img src="https://img.shields.io/badge/Credly-2_Certifications-0A0F2C?style=for-the-badge&logo=credly&logoColor=fbbf24&labelColor=0A0F2C&color=1e1b4b" alt="Credly certifications"/></a>
   <a href="https://github.com/soundaryacs?tab=followers"><img src="https://img.shields.io/github/followers/soundaryacs?label=FOLLOWERS&style=for-the-badge&logo=github&color=1e1b4b&labelColor=0A0F2C" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=soundaryacs&label=PROFILE%20VIEWS&style=for-the-badge&color=1e1b4b&labelColor=0A0F2C" alt="Profile views"/>
 </p>
@@ -22,6 +23,27 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 - 🤖 Exploring **MLOps** and **Forward Deployed Engineering**: taking models and tools into real client workflows
 - 💻 Ship **React + TypeScript + Firebase** SaaS apps: CRMs, admin dashboards and finance and real-estate websites
 - 🌱 Currently building: _Gen AI and agentic workflows on AWS_
+
+---
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/15b9b05e-7085-4312-b372-be8d5b6fcb1d"><img src="https://images.credly.com/size/220x220/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="130" alt="HashiCorp Certified: Terraform Associate (003)"/></a>
+<br/><b>HashiCorp Certified: Terraform Associate (003)</b>
+<br/><sub>HashiCorp · Jul 2025 · valid to Jul 2027</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/59eee4fa-c57b-4338-9f4e-7405b86c604f"><img src="https://images.credly.com/size/220x220/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="130" alt="Google Cloud Generative AI Leader"/></a>
+<br/><b>Generative AI Leader</b>
+<br/><sub>Google Cloud · Oct 2025 · valid to Oct 2028</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://www.credly.com/users/soundarya-cs/badges">View all badges on Credly →</a></p>
 
 ---
 
