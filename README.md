@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner.svg" alt="Soundarya CS — Cloud DevOps Engineer & Full-Stack Developer" width="100%"/>
+  <img src="./profile-banner.svg" alt="Soundarya CS — Cloud DevOps Engineer & Full-Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soundaryacs92/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/soundaryacs92/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdkZDNmYyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
   <a href="https://github.com/soundaryacs?tab=repositories"><img src="https://img.shields.io/badge/Projects-0A0F2C?style=for-the-badge&logo=github&logoColor=f472b6" alt="Projects"/></a>
   <a href="https://github.com/soundaryacshcl"><img src="https://img.shields.io/badge/GitHub-@soundaryacshcl-0A0F2C?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0A0F2C&color=1e1b4b" alt="Second GitHub account"/></a>
   <a href="https://github.com/soundaryacs?tab=followers"><img src="https://img.shields.io/github/followers/soundaryacs?label=FOLLOWERS&style=for-the-badge&logo=github&color=1e1b4b&labelColor=0A0F2C" alt="Followers"/></a>
