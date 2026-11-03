@@ -21,26 +21,164 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 - 📈 Set up **monitoring and observability** with CloudWatch, Lambda collectors and S3 log pipelines
 - 🤖 Exploring **MLOps** and **Forward Deployed Engineering**: taking models and tools into real client workflows
 - 💻 Ship **React + TypeScript + Firebase** SaaS apps: CRMs, admin dashboards and finance and real-estate websites
-- 🌱 Currently learning: _Gen AI / Agentic AI on AWS_
+- 🌱 Currently building: _Gen AI and agentic workflows on AWS_
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 By the Numbers
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,linux,bash,githubactions&theme=dark" alt="Cloud and DevOps"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,tailwind,firebase,nodejs,spring,php,git&theme=dark" alt="Development"/>
-</p>
+<p align="center"><img src="./assets/numbers.svg" alt="75+ repositories, 33 Terraform projects, 16 full-stack apps, 10 AWS use-case labs" width="100%"/></p>
 
-| Area | Tools |
-|---|---|
-| **Cloud** | AWS (EC2, VPC, EKS, ECS Fargate, Lambda, API Gateway, S3, CloudWatch, IAM / SSO) |
-| **IaC** | Terraform, Packer, Helm |
-| **CI/CD** | Jenkins, GitHub Actions, Maven, Docker |
-| **Containers** | Kubernetes, EKS, microservices |
-| **Frontend** | React, TypeScript, Vite, Tailwind, shadcn/ui |
-| **Backend** | Firebase, Spring Boot, Python, PHP |
+---
+
+## 🤖 Generative AI
+
+<p align="center"><img src="./assets/genai.svg" alt="RAG pipeline on AWS: ingest documents into a vector store, retrieve context, answer with Claude on Bedrock" width="100%"/></p>
+
+<details>
+<summary><b>What I build</b></summary>
+<br/>
+
+- **RAG on AWS:** S3 document ingest, chunking in Lambda, Bedrock embeddings, OpenSearch / pgvector retrieval
+- **Serverless delivery:** API Gateway + Lambda front door, all provisioned with Terraform
+- **Guardrails:** PII filtering and grounding checks before an answer goes back to the user
+- **Ops built in:** CloudWatch logs, latency and token-cost dashboards from day one
+- **MLOps foundations:** model training and deployment pipelines ([MLOPS](https://github.com/soundaryacs/MLOPS))
+
+</details>
+
+---
+
+## 🧠 Agentic AI
+
+<p align="center"><img src="./assets/agentic.svg" alt="DevOps agent loop: alert, planner agent, MCP tool router, human approval, execute and audit" width="100%"/></p>
+
+<details>
+<summary><b>What I build</b></summary>
+<br/>
+
+- **Ops agents** that triage CloudWatch alerts and propose a fix
+- **Scoped tool access** through MCP servers: AWS APIs, kubectl / Helm, Terraform plan
+- **Human-in-the-loop:** nothing is applied until someone reviews the diff and risk
+- **Runbook RAG** so agents answer from the team's own docs, not guesses
+- **Audit trail:** every step traced and logged to S3
+
+</details>
+
+---
+
+## 🛰️ Forward Deployed Engineering
+
+<p align="center"><img src="./assets/fde.svg" alt="Five steps: discover, prototype, productionise, deploy and operate, hand over" width="100%"/></p>
+
+<details>
+<summary><b>How an engagement runs</b></summary>
+<br/>
+
+1. **Discover:** sit with the team, map the workflow and agree what success looks like
+2. **Prototype:** a working demo on their real data, fast
+3. **Productionise:** Terraform, CI/CD pipelines and a security review
+4. **Deploy & Operate:** in their own AWS account, with monitoring and cost tracking
+5. **Hand Over:** runbooks and docs so their team owns it
+
+Practice and write-ups: [FDE-Python-Practice](https://github.com/soundaryacs/FDE-Python-Practice)
+
+</details>
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 **Building** Gen AI apps on AWS: RAG with Bedrock and OpenSearch, deployed with Terraform
+- 🧠 **Learning** agentic workflows for DevOps: alert triage, remediation agents and runbook assistants
+- 🔌 **Exploring** the Model Context Protocol (MCP) for safe, scoped access to AWS, Kubernetes and CI/CD
+- 🛰️ **Practising** Forward Deployed Engineering: client discovery through to production rollout
+- 💻 **Shipping** React + TypeScript + Firebase apps for clients: CRMs, dashboards and websites
+
+<details>
+<summary><b>🤝 What I'm useful for</b></summary>
+<br/>
+
+- Taking an AWS workload from console clicks to **Terraform + CI/CD**
+- Standing up **EKS / ECS** with pipelines, monitoring and cost controls
+- Building a **full-stack web app** and the cloud it runs on
+- Turning a Gen AI idea into a **working prototype on AWS**
+
+</details>
+
+<details>
+<summary><b>🧭 How I work</b></summary>
+<br/>
+
+- Infrastructure as code first, no hand-built resources
+- Small, reviewable changes and automated pipelines
+- Monitoring and cost visibility from day one
+- Document as I go, so the next person can own it
+
+</details>
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center"><img src="./assets/stack-orbit.svg" alt="Tech stack orbit: AWS, Docker and Linux at the core, then Terraform, Kubernetes, Jenkins, Helm, Packer, then React, TypeScript, Firebase, Python, MLOps, Bedrock, Spring Boot, RAG" width="100%"/></p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<b>☁️ Cloud & Serverless</b><br/><br/>
+<img src="https://img.shields.io/badge/AWS-0A0F2C?style=for-the-badge" alt="AWS"/>
+<img src="https://img.shields.io/badge/EKS-0A0F2C?style=for-the-badge" alt="EKS"/>
+<img src="https://img.shields.io/badge/ECS%20Fargate-0A0F2C?style=for-the-badge" alt="ECS Fargate"/>
+<img src="https://img.shields.io/badge/Lambda-0A0F2C?style=for-the-badge" alt="Lambda"/>
+<img src="https://img.shields.io/badge/API%20Gateway-0A0F2C?style=for-the-badge" alt="API Gateway"/>
+<img src="https://img.shields.io/badge/CloudWatch-0A0F2C?style=for-the-badge" alt="CloudWatch"/>
+
+<b>⚙️ DevOps & IaC</b><br/><br/>
+<img src="https://img.shields.io/badge/Terraform-0A0F2C?style=for-the-badge&logo=terraform&logoColor=7dd3fc" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Docker-0A0F2C?style=for-the-badge&logo=docker&logoColor=7dd3fc" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-0A0F2C?style=for-the-badge&logo=kubernetes&logoColor=7dd3fc" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Helm-0A0F2C?style=for-the-badge&logo=helm&logoColor=7dd3fc" alt="Helm"/>
+<img src="https://img.shields.io/badge/Jenkins-0A0F2C?style=for-the-badge&logo=jenkins&logoColor=7dd3fc" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0A0F2C?style=for-the-badge&logo=githubactions&logoColor=7dd3fc" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Packer-0A0F2C?style=for-the-badge&logo=packer&logoColor=7dd3fc" alt="Packer"/>
+
+<b>📈 Monitoring</b><br/><br/>
+<img src="https://img.shields.io/badge/CloudWatch-0A0F2C?style=for-the-badge" alt="CloudWatch"/>
+<img src="https://img.shields.io/badge/Prometheus-0A0F2C?style=for-the-badge&logo=prometheus&logoColor=7dd3fc" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-0A0F2C?style=for-the-badge&logo=grafana&logoColor=7dd3fc" alt="Grafana"/>
+
+</td>
+<td width="50%" valign="top">
+
+<b>💻 Languages & Frameworks</b><br/><br/>
+<img src="https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=7dd3fc" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-0A0F2C?style=for-the-badge&logo=typescript&logoColor=7dd3fc" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=7dd3fc" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-0A0F2C?style=for-the-badge&logo=react&logoColor=7dd3fc" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-0A0F2C?style=for-the-badge&logo=vite&logoColor=7dd3fc" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind-0A0F2C?style=for-the-badge&logo=tailwindcss&logoColor=7dd3fc" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-0A0F2C?style=for-the-badge&logo=springboot&logoColor=7dd3fc" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php&logoColor=7dd3fc" alt="PHP"/>
+
+<b>🗄️ Data & Backend</b><br/><br/>
+<img src="https://img.shields.io/badge/Firebase-0A0F2C?style=for-the-badge&logo=firebase&logoColor=7dd3fc" alt="Firebase"/>
+<img src="https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=7dd3fc" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0F2C?style=for-the-badge&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL"/>
+
+<b>🤖 Gen AI & Agentic AI</b><br/><br/>
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-0A0F2C?style=for-the-badge" alt="Amazon Bedrock"/>
+<img src="https://img.shields.io/badge/Claude-0A0F2C?style=for-the-badge&logo=anthropic&logoColor=7dd3fc" alt="Claude"/>
+<img src="https://img.shields.io/badge/LangChain-0A0F2C?style=for-the-badge&logo=langchain&logoColor=7dd3fc" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-0A0F2C?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/MCP-0A0F2C?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/RAG-0A0F2C?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/MLOps-0A0F2C?style=for-the-badge" alt="MLOps"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,12 +201,9 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soundaryacs&show_icons=true&hide_border=true&bg_color=0b1224&title_color=a78bfa&icon_color=7dd3fc&text_color=e2e8f0&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryacs&layout=compact&hide_border=true&bg_color=0b1224&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top languages"/>
-</p>
+<p align="center"><img src="./assets/github-stats.svg" alt="GitHub statistics and most used languages" width="100%"/></p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=soundaryacs&hide_border=true&background=0B1224&ring=A78BFA&fire=F472B6&currStreakLabel=7DD3FC&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 </p>

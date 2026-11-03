@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.6" stop-color="#121633"/><stop offset="1" stop-color="#231c4a"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.15" cy="0.1" r="0.5"><stop offset="0" stop-color="#1fb6c9" stop-opacity="0.16"/><stop offset="1" stop-color="#1fb6c9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.9" cy="0.95" r="0.55"><stop offset="0" stop-color="#a855f7" stop-opacity="0.22"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity="0.03"/></pattern>
+    <clipPath id="card"><rect width="1200" height="260" rx="28"/></clipPath>
+    <linearGradient id="n0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#60a5fa"/></linearGradient><linearGradient id="n1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#60a5fa"/></linearGradient><linearGradient id="n2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><linearGradient id="n3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+      .flow{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+      .flowslow{stroke-dasharray:6 7;animation:flow 2.4s linear infinite}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes flow{to{stroke-dashoffset:-24}}
+      @keyframes pulse{50%{opacity:.35}}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="260" fill="url(#bg)"/><rect width="1200" height="260" fill="url(#g1)"/>
+    <rect width="1200" height="260" fill="url(#g2)"/><rect width="1200" height="260" fill="url(#grid)"/>
+    <rect x="40" y="30" width="270" height="200" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.09"/>
+    <circle cx="64" cy="54" r="5" fill="#67e8f9" class="pulse"/>
+    <path d="M54 30 H130" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" class="flowslow"/>
+    <text x="175" y="130" class="sans" font-size="62" font-weight="800" fill="url(#n0)" text-anchor="middle">75+</text>
+    <text x="175" y="170" class="sans" font-size="19" font-weight="700" fill="#f1f5f9" text-anchor="middle">Repositories Built</text>
+    <text x="175" y="198" class="sans" font-size="14" fill="#94a3b8" text-anchor="middle">across two GitHub accounts</text>
+    <rect x="330" y="30" width="270" height="200" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.09"/>
+    <circle cx="354" cy="54" r="5" fill="#a78bfa" class="pulse"/>
+    <path d="M344 30 H420" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" class="flowslow"/>
+    <text x="465" y="130" class="sans" font-size="62" font-weight="800" fill="url(#n1)" text-anchor="middle">33</text>
+    <text x="465" y="170" class="sans" font-size="19" font-weight="700" fill="#f1f5f9" text-anchor="middle">Terraform / IaC Projects</text>
+    <text x="465" y="198" class="sans" font-size="14" fill="#94a3b8" text-anchor="middle">VPC · EKS · ECS · Lambda</text>
+    <rect x="620" y="30" width="270" height="200" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.09"/>
+    <circle cx="644" cy="54" r="5" fill="#f472b6" class="pulse"/>
+    <path d="M634 30 H710" stroke="#f472b6" stroke-width="3" stroke-linecap="round" class="flowslow"/>
+    <text x="755" y="130" class="sans" font-size="62" font-weight="800" fill="url(#n2)" text-anchor="middle">16</text>
+    <text x="755" y="170" class="sans" font-size="19" font-weight="700" fill="#f1f5f9" text-anchor="middle">Full-Stack Web Apps</text>
+    <text x="755" y="198" class="sans" font-size="14" fill="#94a3b8" text-anchor="middle">React · TypeScript · Firebase</text>
+    <rect x="910" y="30" width="270" height="200" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.09"/>
+    <circle cx="934" cy="54" r="5" fill="#34d399" class="pulse"/>
+    <path d="M924 30 H1000" stroke="#34d399" stroke-width="3" stroke-linecap="round" class="flowslow"/>
+    <text x="1045" y="130" class="sans" font-size="62" font-weight="800" fill="url(#n3)" text-anchor="middle">10</text>
+    <text x="1045" y="170" class="sans" font-size="19" font-weight="700" fill="#f1f5f9" text-anchor="middle">AWS Use-Case Labs</text>
+    <text x="1045" y="198" class="sans" font-size="14" fill="#94a3b8" text-anchor="middle">monitoring · CI/CD · serverless</text>
+
+  </g>
+</svg>

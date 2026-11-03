@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.6" stop-color="#121633"/><stop offset="1" stop-color="#231c4a"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.15" cy="0.1" r="0.5"><stop offset="0" stop-color="#1fb6c9" stop-opacity="0.16"/><stop offset="1" stop-color="#1fb6c9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.9" cy="0.95" r="0.55"><stop offset="0" stop-color="#a855f7" stop-opacity="0.22"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity="0.03"/></pattern>
+    <clipPath id="card"><rect width="1200" height="370" rx="28"/></clipPath>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+      .flow{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+      .flowslow{stroke-dasharray:6 7;animation:flow 2.4s linear infinite}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes flow{to{stroke-dashoffset:-24}}
+      @keyframes pulse{50%{opacity:.35}}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="370" fill="url(#bg)"/><rect width="1200" height="370" fill="url(#g1)"/>
+    <rect width="1200" height="370" fill="url(#g2)"/><rect width="1200" height="370" fill="url(#grid)"/>
+    <text x="60" y="70" class="mono" font-size="15" font-weight="700" fill="#f472b6" letter-spacing="5">FORWARD DEPLOYED ENGINEERING</text>
+    <text x="60" y="104" class="sans" font-size="25" font-weight="700" fill="#f1f5f9">From a client's problem to a system running in their cloud</text>
+    <line x1="150" y1="190" x2="1050" y2="190" stroke="#ffffff" stroke-opacity="0.08" stroke-width="4"/>
+    <line x1="150" y1="190" x2="150" y2="190" stroke="url(#track)" stroke-width="4" stroke-linecap="round"><animate attributeName="x2" values="150;1050;1050" keyTimes="0;0.8;1" dur="6s" repeatCount="indefinite"/></line>
+    <circle cy="190" r="8" fill="#fff"><animate attributeName="cx" values="150;1050;1050" keyTimes="0;0.8;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="190" r="34" fill="#0f1430" stroke="#67e8f9" stroke-opacity="0.5" stroke-width="2"/><circle cx="150" cy="190" r="24" fill="#67e8f9" fill-opacity="0.9"/><text x="150" y="197" class="sans" font-size="19" font-weight="800" fill="#0b1020" text-anchor="middle">1</text>
+    <text x="150" y="272" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="middle">Discover</text>
+    <text x="150" y="300" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">sit with the team,</text>
+    <text x="150" y="322" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">map workflow &amp; goals</text>
+    <circle cx="375" cy="190" r="34" fill="#0f1430" stroke="#67e8f9" stroke-opacity="0.5" stroke-width="2"/><circle cx="375" cy="190" r="24" fill="#67e8f9" fill-opacity="0.9"/><text x="375" y="197" class="sans" font-size="19" font-weight="800" fill="#0b1020" text-anchor="middle">2</text>
+    <text x="375" y="272" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="middle">Prototype</text>
+    <text x="375" y="300" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">working demo on</text>
+    <text x="375" y="322" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">real data, fast</text>
+    <circle cx="600" cy="190" r="34" fill="#0f1430" stroke="#a78bfa" stroke-opacity="0.5" stroke-width="2"/><circle cx="600" cy="190" r="24" fill="#a78bfa" fill-opacity="0.9"/><text x="600" y="197" class="sans" font-size="19" font-weight="800" fill="#0b1020" text-anchor="middle">3</text>
+    <text x="600" y="272" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="middle">Productionise</text>
+    <text x="600" y="300" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">Terraform · CI/CD</text>
+    <text x="600" y="322" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">security review</text>
+    <circle cx="825" cy="190" r="34" fill="#0f1430" stroke="#f472b6" stroke-opacity="0.5" stroke-width="2"/><circle cx="825" cy="190" r="24" fill="#f472b6" fill-opacity="0.9"/><text x="825" y="197" class="sans" font-size="19" font-weight="800" fill="#0b1020" text-anchor="middle">4</text>
+    <text x="825" y="272" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="middle">Deploy &amp; Operate</text>
+    <text x="825" y="300" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">their AWS account,</text>
+    <text x="825" y="322" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">monitoring + cost</text>
+    <circle cx="1050" cy="190" r="34" fill="#0f1430" stroke="#34d399" stroke-opacity="0.5" stroke-width="2"/><circle cx="1050" cy="190" r="24" fill="#34d399" fill-opacity="0.9"/><text x="1050" y="197" class="sans" font-size="19" font-weight="800" fill="#0b1020" text-anchor="middle">5</text>
+    <text x="1050" y="272" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="middle">Hand Over</text>
+    <text x="1050" y="300" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">runbooks, docs,</text>
+    <text x="1050" y="322" class="sans" font-size="15" fill="#94a3b8" text-anchor="middle">team owns it</text>
+
+  </g>
+</svg>

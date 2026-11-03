@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.6" stop-color="#121633"/><stop offset="1" stop-color="#231c4a"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.15" cy="0.1" r="0.5"><stop offset="0" stop-color="#1fb6c9" stop-opacity="0.16"/><stop offset="1" stop-color="#1fb6c9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.9" cy="0.95" r="0.55"><stop offset="0" stop-color="#a855f7" stop-opacity="0.22"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity="0.03"/></pattern>
+    <clipPath id="card"><rect width="1200" height="660" rx="28"/></clipPath>
+    
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+      .flow{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+      .flowslow{stroke-dasharray:6 7;animation:flow 2.4s linear infinite}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes flow{to{stroke-dashoffset:-24}}
+      @keyframes pulse{50%{opacity:.35}}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="660" fill="url(#bg)"/><rect width="1200" height="660" fill="url(#g1)"/>
+    <rect width="1200" height="660" fill="url(#g2)"/><rect width="1200" height="660" fill="url(#grid)"/>
+    <text x="60" y="70" class="mono" font-size="15" font-weight="700" fill="#a78bfa" letter-spacing="5">AGENTIC AI</text>
+    <text x="60" y="104" class="sans" font-size="25" font-weight="700" fill="#f1f5f9">DevOps agent loop: plan, call tools, ask before acting</text>
+    <rect x="60" y="300" width="200" height="96" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#fbbf24" stroke-opacity="0.55" stroke-width="1.5"/><rect x="80" y="316" width="34" height="4" rx="2" fill="#fbbf24"/>
+    <text x="80" y="348" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Alert</text>
+    <text x="80" y="374" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">CloudWatch · ticket</text>
+    <line x1="260" y1="348" x2="300" y2="348" stroke="#fbbf24" stroke-width="2" class="flow"/><circle cx="266" cy="348" r="5" fill="#fbbf24"/><circle cx="294" cy="348" r="5" fill="#fbbf24"/>
+    <rect x="300" y="300" width="200" height="96" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5"/><rect x="320" y="316" width="34" height="4" rx="2" fill="#a78bfa"/>
+    <text x="320" y="348" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Planner Agent</text>
+    <text x="320" y="374" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">reason · plan</text>
+    <line x1="500" y1="348" x2="540" y2="348" stroke="#a78bfa" stroke-width="2" class="flow"/><circle cx="506" cy="348" r="5" fill="#a78bfa"/><circle cx="534" cy="348" r="5" fill="#a78bfa"/>
+    <rect x="540" y="300" width="190" height="96" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#67e8f9" stroke-opacity="0.55" stroke-width="1.5"/><rect x="560" y="316" width="34" height="4" rx="2" fill="#67e8f9"/>
+    <text x="560" y="348" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Tool Router</text>
+    <text x="560" y="374" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">MCP · least privilege</text>
+    <rect x="790" y="160" width="180" height="92" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#67e8f9" stroke-opacity="0.55" stroke-width="1.5"/><rect x="810" y="176" width="34" height="4" rx="2" fill="#67e8f9"/>
+    <text x="810" y="208" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">AWS APIs</text>
+    <text x="810" y="234" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">EC2 · ECS · Lambda</text>
+    <path d="M730 348 C 760 348, 760 206, 790 206" fill="none" stroke="#67e8f9" stroke-width="2" class="flow"/>
+    <path d="M970 206 C 990 206, 990 262, 1000 262" fill="none" stroke="#a78bfa" stroke-width="1.5" class="flowslow"/>
+    <rect x="790" y="265" width="180" height="92" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#67e8f9" stroke-opacity="0.55" stroke-width="1.5"/><rect x="810" y="281" width="34" height="4" rx="2" fill="#67e8f9"/>
+    <text x="810" y="313" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Kubernetes</text>
+    <text x="810" y="339" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">kubectl · Helm</text>
+    <path d="M730 348 C 760 348, 760 311, 790 311" fill="none" stroke="#67e8f9" stroke-width="2" class="flow"/>
+    <path d="M970 311 C 990 311, 990 262, 1000 262" fill="none" stroke="#a78bfa" stroke-width="1.5" class="flowslow"/>
+    <rect x="790" y="370" width="180" height="92" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5"/><rect x="810" y="386" width="34" height="4" rx="2" fill="#a78bfa"/>
+    <text x="810" y="418" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Terraform</text>
+    <text x="810" y="444" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">plan · CI/CD</text>
+    <path d="M730 348 C 760 348, 760 416, 790 416" fill="none" stroke="#a78bfa" stroke-width="2" class="flow"/>
+    <path d="M970 416 C 990 416, 990 262, 1000 262" fill="none" stroke="#a78bfa" stroke-width="1.5" class="flowslow"/>
+    <rect x="790" y="475" width="180" height="92" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#f472b6" stroke-opacity="0.55" stroke-width="1.5"/><rect x="810" y="491" width="34" height="4" rx="2" fill="#f472b6"/>
+    <text x="810" y="523" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Runbooks</text>
+    <text x="810" y="549" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">RAG over docs</text>
+    <path d="M730 348 C 760 348, 760 521, 790 521" fill="none" stroke="#f472b6" stroke-width="2" class="flow"/>
+    <path d="M970 521 C 990 521, 990 262, 1000 262" fill="none" stroke="#a78bfa" stroke-width="1.5" class="flowslow"/>
+    <rect x="1000" y="214" width="170" height="96" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#fbbf24" stroke-opacity="0.55" stroke-width="1.5"/><rect x="1020" y="230" width="34" height="4" rx="2" fill="#fbbf24"/>
+    <text x="1020" y="262" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Human Approval</text>
+    <text x="1020" y="288" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">review diff &amp; risk</text>
+    <line x1="1085" y1="310" x2="1085" y2="380" stroke="#34d399" stroke-width="2" class="flow"/><text x="1095" y="352" class="mono" font-size="14" font-weight="700" fill="#34d399">approved</text>
+    <rect x="1000" y="380" width="170" height="96" rx="14" fill="#141a33" fill-opacity="0.85" stroke="#34d399" stroke-opacity="0.55" stroke-width="1.5"/><rect x="1020" y="396" width="34" height="4" rx="2" fill="#34d399"/>
+    <text x="1020" y="428" class="sans" font-size="20" font-weight="700" fill="#f1f5f9" text-anchor="start">Execute</text>
+    <text x="1020" y="454" class="sans" font-size="15" fill="#94a3b8" text-anchor="start">apply · verify · log</text>
+    <path d="M1085 214 C 1085 70, 400 60, 400 300" fill="none" stroke="#f472b6" stroke-width="2" class="flowslow"/>
+    <rect x="600" y="110" width="280" height="26" rx="13" fill="#121633"/>
+    <text x="740" y="128" class="mono" font-size="14" font-weight="700" fill="#f472b6" text-anchor="middle">rejected → re-plan with feedback</text>
+    <text x="60" y="620" class="mono" font-size="16" fill="#94a3b8">LangGraph · MCP servers · Bedrock Agents · step-level traces · audit log in S3</text>
+
+  </g>
+</svg>
