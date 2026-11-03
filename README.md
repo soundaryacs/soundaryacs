@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Soundarya CS — Cloud DevOps Engineer & Full-Stack Developer" width="100%"/>
+  <img src="./banner-cloud.svg" alt="Soundarya CS — Cloud DevOps Engineer & Full-Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
