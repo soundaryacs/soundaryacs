@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/soundaryacs92/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdkZDNmYyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
   <a href="https://github.com/soundaryacs?tab=repositories"><img src="https://img.shields.io/badge/Projects-0A0F2C?style=for-the-badge&logo=github&logoColor=f472b6" alt="Projects"/></a>
   <a href="https://github.com/soundaryacshcl"><img src="https://img.shields.io/badge/GitHub-@soundaryacshcl-0A0F2C?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0A0F2C&color=1e1b4b" alt="Second GitHub account"/></a>
-  <a href="https://www.credly.com/users/soundarya-cs-fde/badges"><img src="https://img.shields.io/badge/Credly-15_Badges-0A0F2C?style=for-the-badge&logo=credly&logoColor=fbbf24&labelColor=0A0F2C&color=1e1b4b" alt="Credly certifications"/></a>
+  <a href="https://www.credly.com/users/soundarya-cs/badges"><img src="https://img.shields.io/badge/Credly-15_Badges-0A0F2C?style=for-the-badge&logo=credly&logoColor=fbbf24&labelColor=0A0F2C&color=1e1b4b" alt="Credly certifications"/></a>
   <a href="https://github.com/soundaryacs?tab=followers"><img src="https://img.shields.io/github/followers/soundaryacs?label=FOLLOWERS&style=for-the-badge&logo=github&color=1e1b4b&labelColor=0A0F2C" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=soundaryacs&label=PROFILE%20VIEWS&style=for-the-badge&color=1e1b4b&labelColor=0A0F2C" alt="Profile views"/>
 </p>
@@ -33,12 +33,12 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/c4dbb5f1-2152-46cf-8aed-077370f5c1e2"><img src="https://images.credly.com/size/220x220/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="130" alt="AWS Certified DevOps Engineer – Professional"/></a>
+<a href="https://www.credly.com/badges/aff9b0b6-40a5-4326-9fb5-590e9f233562"><img src="https://images.credly.com/size/220x220/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="130" alt="AWS Certified DevOps Engineer – Professional"/></a>
 <br/><b>AWS Certified DevOps Engineer – Professional</b>
 <br/><sub>AWS · valid to Jun 2029</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/a7e64a2c-493b-426c-8036-977a794c8f6c"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="130" alt="AWS Certified Developer – Associate"/></a>
+<a href="https://www.credly.com/badges/fd134cbb-73ed-4fa2-97c9-4c7cc19ade75"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="130" alt="AWS Certified Developer – Associate"/></a>
 <br/><b>AWS Certified Developer – Associate</b>
 <br/><sub>AWS · valid to Jun 2029</sub>
 </td>
@@ -55,12 +55,12 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 <br/><sub>Google Cloud · valid to Oct 2028</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/a634719f-8e26-4834-8bb1-32eb450f4efe"><img src="https://images.credly.com/size/220x220/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob" width="130" alt="Certified Partner Specialist Gemini Enterprise Agent Development"/></a>
+<a href="https://www.credly.com/badges/e3e04a16-3ebb-428b-b6e0-22bd2c23954c"><img src="https://images.credly.com/size/220x220/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob" width="130" alt="Certified Partner Specialist Gemini Enterprise Agent Development"/></a>
 <br/><b>Partner Specialist: Gemini Enterprise Agent Development</b>
 <br/><sub>Google Cloud · valid to Mar 2027</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/31808c38-40c4-44c0-80d8-b9c3b835dbf9"><img src="https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob" width="130" alt="Certified Partner Specialist Gemini Enterprise Deployment"/></a>
+<a href="https://www.credly.com/badges/81df108f-a3c5-4428-87c0-5aa68822088b"><img src="https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob" width="130" alt="Certified Partner Specialist Gemini Enterprise Deployment"/></a>
 <br/><b>Partner Specialist: Gemini Enterprise Deployment</b>
 <br/><sub>Google Cloud · valid to Mar 2027</sub>
 </td>
@@ -74,51 +74,51 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/efe81e53-ec6b-4951-ae8d-88503a1cde5e"><img src="https://images.credly.com/images/e9c45e2a-a48e-4686-99df-7de0ccd6dae7/blob" width="90" alt="Deploy an Agent with Agent Development Kit (ADK)"/></a>
+<a href="https://www.credly.com/badges/2cf28d28-06dc-4d2b-bf16-8ce24c020a4e"><img src="https://images.credly.com/images/e9c45e2a-a48e-4686-99df-7de0ccd6dae7/blob" width="90" alt="Deploy an Agent with Agent Development Kit (ADK)"/></a>
 <br/><b>Deploy an Agent with ADK</b>
 <br/><sub>Google Cloud · Sep 2026</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/3beb35e7-35bd-4ed8-a52f-09a0f37438d1"><img src="https://images.credly.com/size/220x220/images/b1800059-b7de-4065-851d-678287ea0720/blob" width="90" alt="Evaluate and Improve Agent Development Kit Agents"/></a>
+<a href="https://www.credly.com/badges/bd4c56ad-49e4-4dbe-8018-d014348fffa3"><img src="https://images.credly.com/size/220x220/images/b1800059-b7de-4065-851d-678287ea0720/blob" width="90" alt="Evaluate and Improve Agent Development Kit Agents"/></a>
 <br/><b>Evaluate & Improve ADK Agents</b>
 <br/><sub>Google Cloud · Sep 2026</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/3be08ad0-46aa-4187-93c4-f6845c568669"><img src="https://images.credly.com/images/c386f11b-05fd-4755-b091-611d9bb96113/blob" width="90" alt="Add Agents to Gemini Enterprise"/></a>
+<a href="https://www.credly.com/badges/258cf3a8-82db-4697-aeef-df09fd583f0a"><img src="https://images.credly.com/images/c386f11b-05fd-4755-b091-611d9bb96113/blob" width="90" alt="Add Agents to Gemini Enterprise"/></a>
 <br/><b>Add Agents to Gemini Enterprise</b>
 <br/><sub>Google Cloud · Sep 2026</sub>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/823a7d55-de13-4c68-99cb-852305c529d5"><img src="https://images.credly.com/images/39c0ab96-e088-4d83-baaf-395633aa1810/blob" width="90" alt="Govern Agent Access with Gemini Enterprise Agent Platform"/></a>
+<a href="https://www.credly.com/badges/3d5280e4-c862-46e3-bd0a-1175d0746dcc"><img src="https://images.credly.com/images/39c0ab96-e088-4d83-baaf-395633aa1810/blob" width="90" alt="Govern Agent Access with Gemini Enterprise Agent Platform"/></a>
 <br/><b>Govern Agent Access</b>
 <br/><sub>Google Cloud · Sep 2026</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/c23c2618-19cc-46be-8054-023137b4e804"><img src="https://images.credly.com/size/220x220/images/d82b7124-5d8a-4bb9-a3c0-7220e172f948/blob" width="90" alt="Deploy Gemini Enterprise with Workspace Data Sources and Model Armor"/></a>
+<a href="https://www.credly.com/badges/a09e9465-21a0-404c-97bf-acac2e7a90b2"><img src="https://images.credly.com/size/220x220/images/d82b7124-5d8a-4bb9-a3c0-7220e172f948/blob" width="90" alt="Deploy Gemini Enterprise with Workspace Data Sources and Model Armor"/></a>
 <br/><b>Gemini Enterprise + Model Armor</b>
 <br/><sub>Google Cloud · Sep 2026</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/e8e21561-ea62-49a6-bddc-18acc21519f8"><img src="https://images.credly.com/size/220x220/images/9a9bd5ca-b41b-41ed-82ad-43968d960f62/blob" width="90" alt="Accelerate Development with Antigravity"/></a>
+<a href="https://www.credly.com/badges/85d40f19-1885-49fe-9a66-63b4b7aa9464"><img src="https://images.credly.com/size/220x220/images/9a9bd5ca-b41b-41ed-82ad-43968d960f62/blob" width="90" alt="Accelerate Development with Antigravity"/></a>
 <br/><b>Accelerate Development with Antigravity</b>
 <br/><sub>Google Cloud · Sep 2026</sub>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/0af74199-e6f9-4a01-99dd-684d27ce464d"><img src="https://images.credly.com/size/220x220/images/06a71375-44a3-4702-83db-90fa8b47aa1c/blob" width="90" alt="Create and maintain Vertex AI Search data stores"/></a>
+<a href="https://www.credly.com/badges/a77b5495-a6de-4d00-b350-2de8900fb58e"><img src="https://images.credly.com/size/220x220/images/06a71375-44a3-4702-83db-90fa8b47aa1c/blob" width="90" alt="Create and maintain Vertex AI Search data stores"/></a>
 <br/><b>Vertex AI Search Data Stores</b>
 <br/><sub>Google Cloud · Dec 2025</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/05d1ed0d-9588-4200-ae60-87eed81ddfc4"><img src="https://images.credly.com/size/220x220/images/7b366a6a-fd35-463f-bec3-682e1b612a44/blob" width="90" alt="Configure AI Applications to optimize search results"/></a>
+<a href="https://www.credly.com/badges/3ee80453-731a-4672-932f-7489ecba360e"><img src="https://images.credly.com/size/220x220/images/7b366a6a-fd35-463f-bec3-682e1b612a44/blob" width="90" alt="Configure AI Applications to optimize search results"/></a>
 <br/><b>Optimise AI Search Results</b>
 <br/><sub>Google Cloud · Dec 2025</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.credly.com/badges/4ed1d4ee-a194-44a2-8832-28cd497c2524"><img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="90" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge"/></a>
+<a href="https://www.credly.com/badges/a7ae9b24-5eb7-4d0d-92c3-e665f1ae4cfd"><img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="90" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge"/></a>
 <br/><b>AWS Cloud Quest: Gen AI Practitioner</b>
 <br/><sub>AWS · Jul 2026</sub>
 </td>
@@ -127,7 +127,7 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 
 </details>
 
-<p align="center">View on Credly: <a href="https://www.credly.com/users/soundarya-cs-fde/badges">soundarya-cs-fde</a> · <a href="https://www.credly.com/users/soundarya-cs/badges">soundarya-cs</a></p>
+<p align="center"><a href="https://www.credly.com/users/soundarya-cs/badges">View all badges on Credly →</a></p>
 
 ---
 
