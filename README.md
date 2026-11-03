@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/soundaryacs92/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/></a>
   <a href="https://github.com/soundaryacs?tab=repositories"><img src="https://img.shields.io/badge/Projects-0A0F2C?style=for-the-badge&logo=github&logoColor=f472b6" alt="Projects"/></a>
+  <a href="https://github.com/soundaryacshcl"><img src="https://img.shields.io/badge/GitHub-@soundaryacshcl-0A0F2C?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0A0F2C&color=1e1b4b" alt="Second GitHub account"/></a>
   <a href="https://github.com/soundaryacs?tab=followers"><img src="https://img.shields.io/github/followers/soundaryacs?label=FOLLOWERS&style=for-the-badge&logo=github&color=1e1b4b&labelColor=0A0F2C" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=soundaryacs&label=PROFILE%20VIEWS&style=for-the-badge&color=1e1b4b&labelColor=0A0F2C" alt="Profile views"/>
 </p>
@@ -47,16 +48,18 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 
 | Project | What it does | Stack |
 |---|---|---|
-| [eks-3-tier-project](https://github.com/soundaryacs/eks-3-tier-project) | 3-tier app on Amazon EKS, provisioned with Terraform | Terraform · EKS · K8s |
+| [UC-09-EKS-Cluster](https://github.com/soundaryacshcl/UC-09-EKS-Cluster) | Amazon EKS cluster provisioned with Terraform | Terraform · EKS · K8s |
 | [EKS-Cluster-CI-CD](https://github.com/soundaryacs/EKS-Cluster-CI-CD) | End-to-end CI/CD into an EKS cluster | Jenkins · Docker · EKS |
 | [ECS-Fargate-Implimentation-using-IaC](https://github.com/soundaryacs/ECS-Fargate-Implimentation-using-IaC) | Serverless containers on ECS Fargate | Terraform · ECS |
 | [Lambda-CICD-SSO-IaC-Project](https://github.com/soundaryacs/Lambda-CICD-SSO-IaC-Project) | Lambda delivery pipeline with SSO, all in IaC | Terraform · Lambda · SSO |
 | [Serverless-EC2-Scheduler](https://github.com/soundaryacs/Serverless-EC2-Scheduler) | Cost saving: starts and stops EC2 on a schedule | Lambda · EventBridge |
-| [microservices-ecommerce-k8s](https://github.com/soundaryacs/microservices-ecommerce-k8s) | Microservices e-commerce on Kubernetes | Python · K8s |
+| [Packer-AMI-LT-Jenkins](https://github.com/soundaryacs/Packer-AMI-LT-Jenkins) | Golden AMIs with Packer, rolled out via launch templates | Packer · Jenkins · EC2 |
+| [AWS-Monitoring](https://github.com/soundaryacs/AWS-Monitoring) | Monitoring and alerting for AWS workloads | CloudWatch · Terraform |
+| [microservices-ecommerce-k8s](https://github.com/soundaryacshcl/microservices-ecommerce-k8s) | Microservices e-commerce on Kubernetes | Python · K8s |
 | [MLOPS](https://github.com/soundaryacs/MLOPS) | ML model training and deployment pipeline | Python · MLOps |
-| [lifevault-infra-terraform](https://github.com/soundaryacs/lifevault-infra-terraform) | Production infra + Helm charts for the LifeVault platform | Terraform · Helm |
-| [euphoria-capital-web](https://github.com/soundaryacs/euphoria-capital-web) | Investment firm website with admin dashboard | React · TS · Firebase |
-| [glozia-crm](https://github.com/soundaryacs/glozia-crm) | Sales CRM for a business client | React · TS |
+| [LifeVault_UserDashboard](https://github.com/soundaryacs/LifeVault_UserDashboard) | User dashboard for the LifeVault platform | React · TypeScript |
+
+> 🗂️ More cloud use cases (UC-03 to UC-12), Terraform best practices and CI/CD labs are on my second account: **[@soundaryacshcl](https://github.com/soundaryacshcl)**
 
 ---
 
@@ -75,6 +78,6 @@ I'm a **Cloud DevOps Engineer and Full-Stack Developer** who builds the infrastr
 ## 🤝 Let's Connect
 
 Always happy to talk **Cloud, DevOps and Platform Engineering**, or a web project you have in mind.
-Reach me on [LinkedIn](https://www.linkedin.com/in/soundaryacs92/).
+Reach me on [LinkedIn](https://www.linkedin.com/in/soundaryacs92/), or see more of my work at [github.com/soundaryacshcl](https://github.com/soundaryacshcl).
 
 <p align="center"><i>“Automate the boring, ship the important.”</i></p>
